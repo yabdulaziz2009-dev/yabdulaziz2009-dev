@@ -30,12 +30,12 @@
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yabdulaziz2009-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=yabdulaziz2009-dev&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=yabdulaziz2009-dev&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yabdulaziz2009-dev&langs_count=8&layout=compact&theme=github_dark&hide_border=true&border_radius=10" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yabdulaziz2009-dev&show_icons=true&theme=dark&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yabdulaziz2009-dev&langs_count=8&layout=compact&theme=dark&hide_border=true&border_radius=10" alt="Top Languages" />
 </p>
 
 <p align="center">
