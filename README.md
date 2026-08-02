@@ -30,7 +30,7 @@
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=yabdulaziz2009-dev&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-eight.vercel.app/?username=yabdulaziz2009-dev&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
