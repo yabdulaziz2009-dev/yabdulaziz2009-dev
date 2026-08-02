@@ -42,6 +42,10 @@
   <img src="https://streak-stats.demolab.com?user=yabdulaziz2009-dev&theme=github-dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yabdulaziz2009-dev&theme=github-compact&hide_border=true&radius=10&area=true" alt="Contribution Activity Graph" />
+</p>
+
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Languages</h3>
