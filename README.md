@@ -9,8 +9,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- I build production web products end to end — database schema, API, interface, deploy.
-- Currently shipping **LevelUp Academy**, a CRM for learning centres running live at [levelup-academy.uz](https://levelup-academy.uz).
+**Abdulaziz Yakubov** (Абдулазиз Якубов) — software engineer & SEO specialist from Tashkent, Uzbekistan. Website: **[abdulaziz-yakubov.vercel.app](https://abdulaziz-yakubov.vercel.app)**
+- SEO & Full Stack Engineer at **tezcode** — I own search for [WeWatch](https://wewatch.uz): technical SEO, multilingual content, Schema.org, visibility in AI answers (GEO/AEO).
+- I build production web products end to end — database schema, API, interface, deploy (AI Foundation website, LevelUp Academy CRM backend).
 - AI-assisted development is part of my daily workflow, not a side experiment.
 
 ## 🧠 Focus Areas
@@ -88,8 +89,11 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://levelup-academy.uz">
+  <a href="https://abdulaziz-yakubov.vercel.app">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/abdulazizyakubov">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/levelup_academy_uz/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" alt="Instagram" width="40" />
